@@ -260,3 +260,9 @@ header {
 .works-step {
   margin-bottom: 50px;
 }
+
+.works-step div {
+  color: #e67e32;
+  border: 2px solid #e67e32;
+  display: inline-block;
+}
